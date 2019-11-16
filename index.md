@@ -7,3 +7,5 @@
 - Laary Plotter y a Orden de Unix
 - Larry Plotter y el misterio del hacker
 - Larry Plotter y los commits de la muerte
+
+Based on Sapoconchu's original saga
